@@ -1,0 +1,10 @@
+footer{
+    display: grid;
+    grid-template-columns: 20% repeat(3,auto);
+    
+}
+
+img{
+    width: 50%;
+   
+}
